@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Main-Class: opentext.src.main.java.opentext.editor.EditorApplication
+Created-By: Maven Integration for Eclipse
+
